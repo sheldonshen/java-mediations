@@ -1,0 +1,3 @@
+#java related technology books
+1 thinking in java
+2 effective java
