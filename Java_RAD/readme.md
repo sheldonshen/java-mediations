@@ -81,6 +81,7 @@ http://blog.csdn.net/zhangshuaipeng/article/details/50772480
 
 26 https://github.com/zhangkaitao/es JavaEE项目开发脚手架(张开涛)<br>
 
-
+http://www.oschina.net/project/tag/127/webframework
+开源中国webframework分类<br>
 ##A curated list of awesome Android RAD Framework (just including Mobile App RAD Framework)
 
