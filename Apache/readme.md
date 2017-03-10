@@ -10,4 +10,8 @@ http://topmanopensource.iteye.com/category/64329  activemq系列文章<br>
 
 #maven
 https://maven.apache.org/  official doc <br>
-http://www.yiibai.com/maven/   mavne tutorials(Chinese)<br>
+http://www.yiibai.com/maven/   maven tutorials(Chinese)<br>
+
+#git
+https://git-scm.com/doc <br>
+廖雪峰Git教程<br>
