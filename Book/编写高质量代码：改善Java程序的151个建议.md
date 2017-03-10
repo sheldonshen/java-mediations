@@ -45,10 +45,10 @@
 建议42： 让工具类不可实例化<br>
 建议43： 避免对象的浅拷贝<br>
 建议44： 推荐使用序列化实现对象的拷贝<br>
-建议45： 覆写equals方法时不要识别不出自己(继续)<br>
+建议45： 覆写equals方法时不要识别不出自己<br>
 建议46： equals应该考虑null值情景<br>
 建议47： 在equals中使用getClass进行类型判断<br>
-建议48： 覆写equals方法必须覆写hashCode方法<br>
+建议48： 覆写equals方法必须覆写hashCode方法(继续)<br>
 建议49： 推荐覆写toString方法<br>
 建议50： 使用package-info类为包服务<br>
 建议51： 不要主动进行垃圾回收<br>
