@@ -9,7 +9,7 @@
 第7条：避免使用终结方法<br>
 
 第3章 对于所有对象都通用的方法<br>
-第8条：覆盖equals时请遵守通用约定<br>
+第8条：覆盖equals时请遵守通用约定(继续)<br>
 第9条：覆盖equals时总要覆盖hashCode<br>
 第10条：始终要覆盖toString<br>
 第11条：谨慎地覆盖clone<br>
